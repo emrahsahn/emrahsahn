@@ -50,6 +50,12 @@ Makine öğrenmesi algoritmaları kullanarak meme kanseri teşhisine yardımcı 
 ### 🖼️ [Yapay Zeka Destekli Görüntü Sınıflandırma](https://github.com/emrahsahn/Yapay-Zeka-Destekli-Goruntu-Siniflandirma-Projesi)
 Veri analizi yöntemleri ve derin öğrenme teknikleri kullanılarak geliştirilmiş görüntü sınıflandırma modeli. 
 
+### 🤖 [LLM Test](https://github.com/emrahsahn/llm-test)
+Büyük dil modelleri (LLM) ile test ve deneysel çalışmalar. 
+
+### 📊 [Ensemble Learning](https://github.com/emrahsahn/ensemble-learning)
+Makine öğrenmesinde ensemble teknikleri ve model birleştirme yöntemleri üzerine çalışma. 
+
 
 ## 🌐 Benimle İletişime Geçin
 
