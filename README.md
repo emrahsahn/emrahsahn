@@ -54,9 +54,10 @@ Veri analizi yöntemleri ve derin öğrenme teknikleri kullanılarak geliştiril
 ## 🌐 Benimle İletişime Geçin
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrahsahn](https://www.linkedin.com/in/emrah-şahin-788799253/))
-[![Email](https://img.shields.io/badge/-Email-EA4335? style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emrahsahn](https://medium.com/@dilekemrah.sahin))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717? style=flat-square&logo=github)](https://github.com/emrahsahn)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/emrahsahn)
+
 
 ---
 
