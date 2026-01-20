@@ -8,7 +8,7 @@ Yapay zeka ve bilgisayarlı görü alanında tutkulu bir mühendisim. **Derin ö
 - 🌱 Şu anda **zorlu hava koşullarında görüntü algılama optimizasyonu** üzerine tez çalışması yapıyorum
 - 💡 **Akıllı çöp ayrıştırma sistemi** ve **meme kanseri sınıflandırma** gibi sosyal etki yaratan projeler geliştirdim
 - 🎯 İlgi alanlarım:  Bilgisayarlı Görü, Derin Öğrenme, Görüntü İşleme, Veri Bilimi
-- 📫 Bana ulaşın: **[your.email@example.com]**
+- 📫 Bana ulaşın: **[sahinemrah3344@gmail.com]**
 
 ## 🛠️ Teknolojiler ve Araçlar
 
@@ -50,17 +50,12 @@ Makine öğrenmesi algoritmaları kullanarak meme kanseri teşhisine yardımcı 
 ### 🖼️ [Yapay Zeka Destekli Görüntü Sınıflandırma](https://github.com/emrahsahn/Yapay-Zeka-Destekli-Goruntu-Siniflandirma-Projesi)
 Veri analizi yöntemleri ve derin öğrenme teknikleri kullanılarak geliştirilmiş görüntü sınıflandırma modeli. 
 
-## 📊 GitHub İstatistiklerim
-
-![Emrah's GitHub stats](https://github-readme-stats.vercel.app/api? username=emrahsahn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel. app/api/top-langs/? username=emrahsahn&layout=compact&theme=radical)
 
 ## 🌐 Benimle İletişime Geçin
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrahsahn)
-[![Email](https://img.shields.io/badge/-Email-EA4335? style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emrahsahn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrahsahn](https://www.linkedin.com/in/emrah-şahin-788799253/))
+[![Email](https://img.shields.io/badge/-Email-EA4335? style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emrahsahn](https://medium.com/@dilekemrah.sahin))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717? style=flat-square&logo=github)](https://github.com/emrahsahn)
 
 ---
