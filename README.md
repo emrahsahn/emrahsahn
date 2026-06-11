@@ -1,69 +1,68 @@
-# 👋 Merhaba, Ben Emrah Şahin! 
+# 👋 Hello, I'm Emrah Şahin! 
 
-Yapay zeka ve bilgisayarlı görü alanında tutkulu bir mühendisim. **Derin öğrenme**, **görüntü işleme** ve **veri analizi** konularında uzmanlaşmış durumdayım. Özellikle **Computer Vision** ve **AI tabanlı çözümler** geliştiriyorum.
+I am a passionate engineer specializing in Artificial Intelligence and Computer Vision. I focus on **Deep Learning**, **Image Processing**, and **Data Analysis**, specifically developing **Computer Vision** models and **AI-driven solutions**.
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🔭 Aktif olarak **görüntü iyileştirme** ve **yapay zeka** projeleri üzerinde çalışıyorum
-- 🌱 Şu anda **zorlu hava koşullarında görüntü algılama optimizasyonu** üzerine tez çalışması yapıyorum
-- 💡 **Akıllı çöp ayrıştırma sistemi** ve **meme kanseri sınıflandırma** gibi sosyal etki yaratan projeler geliştirdim
-- 🎯 İlgi alanlarım:  Bilgisayarlı Görü, Derin Öğrenme, Görüntü İşleme, Veri Bilimi
-- 📫 Bana ulaşın: **[sahinemrah3344@gmail.com]**
+- 🔭 Actively working on **Image Enhancement** and **Artificial Intelligence** projects.
+- 🌱 Recently completed a comprehensive thesis on **Image Detection Optimization in Challenging Weather Conditions**.
+- 💡 Developed high-impact projects such as an **Smart Waste Sorting System** and **Breast Cancer Classification**.
+- 🎯 Interests: Computer Vision, Deep Learning, Image Processing, Data Science.
+- 📫 Reach me at: **[sahinemrah3344@gmail.com]**
 
-## 🛠️ Teknolojiler ve Araçlar
+## 🛠️ Technologies and Tools
 
-### Programlama Dilleri
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C? style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00? style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Veri Bilimi
+### Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
-### Araçlar
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 💼 Öne Çıkan Projeler
+## 💼 Featured Projects
 
-### 🗑️ [Akıllı Çöp Ayrıştırma Sistemi](https://github.com/emrahsahn/akilli-cop-ayristirma-sistemi)
-Atık türlerini sınıflandırarak geri dönüşümü artırmaya yönelik yapay zeka tabanlı bir sistem.  Derin öğrenme ile görüntü sınıflandırma yaparak çevre dostu bir teknoloji sunuyor.
+### 🗑️ [Smart Waste Sorting System](https://github.com/emrahsahn/akilli-cop-ayristirma-sistemi)
+An AI-powered system designed to classify waste types and increase recycling efficiency. It leverages deep learning for image classification to deliver an eco-friendly technology solution.
 
-### 🌤️ [Görüntü İyileştirme & Algılama Optimizasyonu](https://github.com/emrahsahn/Coklu-Zorlu-Hava-Kosullarinda-Goruntu-Iyilestirme-ve-Algilama-Optimizasyonu)
-Zorlu hava koşullarında (yağmur, sis, kar) görüntü kalitesini artıran ve algılama performansını optimize eden AI sistemi.  Tez projesi kapsamında geliştirildi.
+### 🌤️ [Image Restoration & Detection Optimization](https://github.com/emrahsahn/Coklu-Zorlu-Hava-Kosullarinda-Goruntu-Iyilestirme-ve-Algilama-Optimizasyonu)
+An AI system that enhances image quality and optimizes detection performance under challenging weather conditions (rain, fog, snow). Developed as part of a graduation thesis project.
 
-### 🏥 [Meme Kanseri Sınıflandırma](https://github.com/emrahsahn/Breast-Cancer-Classification)
-Makine öğrenmesi algoritmaları kullanarak meme kanseri teşhisine yardımcı olan bir sınıflandırma sistemi. Tıbbi görüntü analizi ve yüksek hassasiyet odaklı. 
+### 🏥 [Breast Cancer Classification](https://github.com/emrahsahn/Breast-Cancer-Classification)
+A classification system that assists in breast cancer diagnosis using machine learning algorithms. Focused on medical image analysis and high precision. 
 
-### 🖼️ [Yapay Zeka Destekli Görüntü Sınıflandırma](https://github.com/emrahsahn/Yapay-Zeka-Destekli-Goruntu-Siniflandirma-Projesi)
-Veri analizi yöntemleri ve derin öğrenme teknikleri kullanılarak geliştirilmiş görüntü sınıflandırma modeli. 
+### 🖼️ [AI-Powered Image Classification](https://github.com/emrahsahn/Yapay-Zeka-Destekli-Goruntu-Siniflandirma-Projesi)
+An image classification model developed using data analysis techniques and deep learning methods.
 
-### 🤖 [LLM Test](https://github.com/emrahsahn/llm-test)
-Büyük dil modelleri (LLM) ile test ve deneysel çalışmalar. 
+### 🤖 [LLM Test Framework](https://github.com/emrahsahn/llm-test)
+Experimental studies, evaluations, and testing workflows with Large Language Models (LLMs).
 
-### 📊 [Ensemble Learning](https://github.com/emrahsahn/ensemble-learning)
-Makine öğrenmesinde ensemble teknikleri ve model birleştirme yöntemleri üzerine çalışma. 
+### 📊 [Ensemble Learning Studies](https://github.com/emrahsahn/ensemble-learning)
+A research and implementation project focused on ensemble techniques and model combination methods in machine learning.
 
 
-## 🌐 Benimle İletişime Geçin
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrahsahn](https://www.linkedin.com/in/emrah-şahin-788799253/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrah-%C5%9Fahin-788799253/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emrahsahn](https://medium.com/@dilekemrah.sahin))
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dilekemrah.sahin)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/emrahsahn)
-
 
 ---
 
