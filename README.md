@@ -61,7 +61,7 @@ A research and implementation project focused on ensemble techniques and model c
 
 ## 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)]((https://personel-website-iota.vercel.app/tr))
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://personel-website-iota.vercel.app/tr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrah-%C5%9Fahin-788799253/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dilekemrah.sahin)
