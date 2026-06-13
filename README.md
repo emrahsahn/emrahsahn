@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Emrah Şahin! 
 
 I am a passionate engineer specializing in Artificial Intelligence and Computer Vision. I focus on **Deep Learning**, **Image Processing**, and **Data Analysis**, specifically developing **Computer Vision** models and **AI-driven solutions**.
+🌐 **Personal Website:** [emrahsahin.dev](https://personel-website-iota.vercel.app/tr) — Bilingual portfolio with projects, experience, blog & contact.
 
 ## 🚀 About Me
 
@@ -9,6 +10,7 @@ I am a passionate engineer specializing in Artificial Intelligence and Computer 
 - 💡 Developed high-impact projects such as an **Smart Waste Sorting System** and **Breast Cancer Classification**.
 - 🎯 Interests: Computer Vision, Deep Learning, Image Processing, Data Science.
 - 📫 Reach me at: **[sahinemrah3344@gmail.com]**
+- 🌍 Explore my full portfolio at **[my personal website]((https://personel-website-iota.vercel.app/tr))** — projects, experience, blog (TR/EN).
 
 ## 🛠️ Technologies and Tools
 
@@ -59,6 +61,7 @@ A research and implementation project focused on ensemble techniques and model c
 
 ## 🌐 Connect with Me
 
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)]((https://personel-website-iota.vercel.app/tr))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrah-%C5%9Fahin-788799253/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahinemrah3344@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dilekemrah.sahin)
