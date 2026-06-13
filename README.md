@@ -38,7 +38,7 @@ I am a passionate engineer specializing in Artificial Intelligence and Computer 
 
 ## 💼 Featured Projects
 
-### 🗑️ [Smart Waste Sorting System](https://github.com/emrahsahn/akilli-cop-ayristirma-sistemi)
+### 🗑️ [Smart Garbage Sorting System](https://github.com/emrahsahn/akilli-cop-ayristirma-sistemi)
 An AI-powered system designed to classify waste types and increase recycling efficiency. It leverages deep learning for image classification to deliver an eco-friendly technology solution.
 
 ### 🌤️ [Image Restoration & Detection Optimization](https://github.com/emrahsahn/Coklu-Zorlu-Hava-Kosullarinda-Goruntu-Iyilestirme-ve-Algilama-Optimizasyonu)
